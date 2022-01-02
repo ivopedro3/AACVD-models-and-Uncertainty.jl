@@ -1,0 +1,8 @@
+name = "Uncertainty"
+uuid = "d9c9c500-d798-11e8-2e03-536ef153ce2a"
+authors = ["Pedro I. O. Filho <pedro.filho.15@ucl.ac.uk>", "Eric S. Fraga <e.fraga@ucl.ac.uk>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
